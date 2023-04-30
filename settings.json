@@ -1,0 +1,61 @@
+{
+   "settings":{
+   		"status":true,
+		"check_installation":true,
+		"day_of_installation":3,
+		"logo_app":"https://i.ibb.co/wpGGXYW/Demo-Slot-min.png",
+		"article":"Slot demo adalah versi game slot online yang dapat dimainkan secara gratis tanpa harus memasang taruhan uang asli. Fitur ini sangat berguna bagi pemain yang ingin mencoba game slot baru tanpa harus mengambil risiko kehilangan uang. Selain itu, slot demo juga bisa digunakan oleh pemain untuk mencari tahu apakah game slot tersebut sesuai dengan selera mereka atau tidak.",
+		"link_vvip":"https://superpiala88.com/?ref=solusikita",
+		"link_rtp":"https://www.rtppiala88.com"
+   },
+   "sliders":[
+      {
+         "img":"https://i.ibb.co/n6ZpVrK/Piala88-Slider-1-Akun-Semua-Permainan3.webp",
+         "link":"https://superpiala88.com/?ref=solusikita"
+      },
+      {
+         "img":"https://i.ibb.co/fFmMnk7/slider-qriss-IDRSLOT88-2.webp",
+         "link":"https://idrslot88.net/?ref=solusikita"
+      }
+   ],
+   "providers":[
+      {
+         "name":"Pragmatic Play",
+         "icon":"https://i.ibb.co/GW4bgPQ/20230130023214.png",
+         "article":"Elevating Gaming Experience to New Heights",
+         "games":[
+            {
+               "name":"Gates of Olympus",
+               "icon":"https://media.fastchecker.us/idnsmedia/is/slots-v3/pragmatic-direct/r3r23rGates-of-Olympus.webp",
+               "link_demo":"https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20olympgate&lang=en&cur=IDR&lobbyUrl=gd88.org&stylename=gd88_gd88",
+               "link_vvip":"https://superpiala88.com/?ref=solusikita"
+            },
+            {
+               "name":"Gates of Gatot Kaca",
+               "icon":"https://media.fastchecker.us/idnsmedia/is/slots-v3/pragmatic-direct/Gates%20of%20Gatot%20Kaca.webp",
+               "link_demo":"https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20gatotgates&lang=en&cur=IDR&lobbyUrl=gd88.org&stylename=gd88_gd88",
+               "link_vvip":"https://superpiala88.com/?ref=solusikita"
+            }
+         ]
+      },
+      {
+         "name":"Habanero",
+         "icon":"https://i.ibb.co/V9QtRc2/20230130023250.png",
+         "article":"Where Gaming Meets Innovation",
+         "games":[
+            {
+               "name":"Soju Bomb",
+               "icon":"https://media.fastchecker.us/idnsmedia/is/slots-v3/t1-habanero/Soju%20Bomb.webp?v=7.0",
+               "link_demo":"https://demoslot.cloud/iframe/demo-soju-bomb-habanero#amp=1",
+               "link_vvip":"https://idrslot88.net/?ref=solusikita"
+            },
+            {
+               "name":"Tuk Tuk Thailand",
+               "icon":"https://media.fastchecker.us/idnsmedia/is/slots-v3/t1-habanero/Tuk%20Tuk%20Thailand.webp?v=7.0",
+               "link_demo":"https://demoslot.cloud/iframe/demo-tuk-tuk-thailand-habanero",
+               "link_vvip":"https://idrslot88.net/?ref=solusikita"
+            }
+         ]
+      }
+   ]
+}

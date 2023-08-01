@@ -1,7 +1,7 @@
 {
    "settings":{
 	"status":true,
-	"check_installation":true,
+	"check_installation":false,
 	"day_of_installation":3,
 	"logo_app":"https://i.ibb.co/d6jvz4q/logo-panjang.png",
 	"article":"Slot Mega888 adalah permainan mesin slot online yang menarik dan populer di kalangan pemain judi. Dikembangkan oleh Mega888, platform permainan ini menawarkan berbagai tema dan gaya grafis yang menarik, mencakup segala sesuatu mulai dari slot klasik hingga slot video modern dengan fitur-fitur inovatif. ",
@@ -9,12 +9,81 @@
    }, 
    "sliders":[
       {
-	 "img":"https://i.ibb.co/P9Xq2fd/banner-slider.png",
+	      "img":"https://i.ibb.co/P9Xq2fd/banner-slider.png",
          "link":"Selamat Datang Di Bronyatech Slot Mega888"	   
       }
    ], 
    "providers":[
       {
+         "name":"Mega888",
+         "icon":"https://i.ibb.co/xmWnLYw/mega888.png",
+         "article":"Mega888 provider slot gacor!",
+         "games":[
+            {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }
+         ]
+      }, {
+         "name":"Mega888",
+         "icon":"https://i.ibb.co/xmWnLYw/mega888.png",
+         "article":"Mega888 provider slot gacor!",
+         "games":[
+            {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }
+         ]
+      }, {
+         "name":"Mega888",
+         "icon":"https://i.ibb.co/xmWnLYw/mega888.png",
+         "article":"Mega888 provider slot gacor!",
+         "games":[
+            {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }, {
+               "name":"Mega888 Malaysia",
+               "icon":"https://i.ibb.co/sQ8Kp9z/download.jpg",
+               "link_vvip":"#"
+            }
+         ]
+      }, {
          "name":"Mega888",
          "icon":"https://i.ibb.co/xmWnLYw/mega888.png",
          "article":"Mega888 provider slot gacor!",

@@ -1,6 +1,6 @@
 {
    "settings":{
-	"status":false,
+	"status":true,
 	"check_installation":true,
 	"day_of_installation":1,
 	"logo_app":"https://i.ibb.co/d6jvz4q/logo-panjang.png",
